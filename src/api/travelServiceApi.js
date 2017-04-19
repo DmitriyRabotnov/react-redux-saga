@@ -17,7 +17,7 @@ class TravelServiceApi {
         resolve(Object.assign({},  {
           userID : user.email,
           flightID : "AR1973",
-          date : "20/05/2017 16:00PM"
+          date : "05/20/2017 16:00PM"
         }));
       }, 2500);
     });

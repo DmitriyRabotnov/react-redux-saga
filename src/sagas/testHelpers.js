@@ -1,17 +1,17 @@
 export const user = {
-  email : 'somemockemail@gmail.com'
+  email : 'dratnov@gmail.com'
 };
 export const departure = {
   flightID : '12HH',
-  date: '10/27/2016 16:00PM'
+  date: '04/20/2017 16:00PM'
 };
 export const flight = {
-  pilot: "Jhonny Bravo",
+  pilot: "John Dole",
   plane: {
     make: "Boeing 747 RC",
     model: "TA-889"
   }
 };
 export const forecast =  {
-    forecast: "rain"
+    forecast: "snow"
 };
